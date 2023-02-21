@@ -4,6 +4,7 @@ Exposition d'art numérique BIAN 6
 
 
 
+
 **LIEU DE LA MISES EN EXPOSITION:**
 
 À la galerie Arsenal art contemporain Montréal 
