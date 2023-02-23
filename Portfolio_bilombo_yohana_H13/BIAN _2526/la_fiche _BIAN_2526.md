@@ -9,23 +9,22 @@ source:https://www.arsenalcontemporary.com/mtl/fr/exhib/detail/2022-elektra-6e-b
 ![IMG_6072](https://user-images.githubusercontent.com/112107428/220931581-3c43f5d1-d0ec-440c-8945-7cb3c8340c94.jpeg)
 L'exposition d'art numérique BIAN 6, est une exposition temporaire qui ce déroule généralement a l'intérieure. Elle a eu lieu à la galerie Arsenal art contemporain  de Montréal du 1er décembre 2022 au 5 février 2023. Je suis partit visitée l'exposition lors d'une sortie scolaire le 2 Février 2023 dernier.
 
-# TITRE DE L'OEUVRE:
+# TITRE DE L'OEUVRE: 2526
+![IMG_6040](https://user-images.githubusercontent.com/112107428/220964900-05c54639-0855-4bb7-bbf5-5b0abf533de1.jpeg)
+ 2562 à été réalisé par Ying Gao en 2022.
 
-2526
+# NOM DE L'ARTISTE: Ying Gao
+![IMG_6045](https://user-images.githubusercontent.com/112107428/220965916-496560c0-b37b-4be7-979c-e3c49ee5d15a.jpeg)
 
-# NOM DE L'ARTISTE:(photo)
+## DESCRIPTION DE L'OEUVRE
+![IMG_6057](https://user-images.githubusercontent.com/112107428/220967197-17ccafeb-24d4-4d7f-97c9-839b48caaa84.jpeg)
 
-Ying Gao
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/112107428/220974043-a50b3fed-544b-44e4-b255-e440d133fe5d.png)
 
-ANNÉ DE LA RÉALISATION:
+L'ouvre est fait principalement de deux vêtements polymorphes robotisés simulant les effets des vêtements virtuels.
 
-2022
-
-## DESCRIPTION DE L'OEUVRE:(photo)
-
-Deux vêtements polymorphes robotisés simulant les effets des vêtements virtuels.
-
-## TYPE D'INSTALLATION:(photo)
+## TYPE D'INSTALLATION
+![IMG_6059](https://user-images.githubusercontent.com/112107428/220974594-3c6fe341-4dcf-4e35-a524-060d01713a23.jpeg)
 
 Intéractive et Comtemplatif
 
