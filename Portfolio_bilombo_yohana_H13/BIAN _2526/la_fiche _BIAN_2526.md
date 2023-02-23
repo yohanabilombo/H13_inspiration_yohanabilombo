@@ -1,10 +1,13 @@
 
 
-# Exposition d'art numérique BIAN 6 (photo)
+# Exposition d'art numérique BIAN 6
 
-## LIEU DE LA MISES EN EXPOSITION (photo)
+![BIAN6](https://user-images.githubusercontent.com/112107428/220931310-bc8ae89e-1925-40b3-a117-588776fda29c.jpg)
+source:https://www.arsenalcontemporary.com/mtl/fr/exhib/detail/2022-elektra-6e-biennale
 
-À la galerie Arsenal art contemporain Montréal,Interieure, Temporaire ( du 1er déc 2022 au 5 fév 2023) ,2 Février 2023
+## LIEU DE LA MISES EN EXPOSITION
+![IMG_6072](https://user-images.githubusercontent.com/112107428/220931581-3c43f5d1-d0ec-440c-8945-7cb3c8340c94.jpeg)
+L'exposition d'art numérique BIAN 6, est une exposition temporaire qui ce déroule généralement a l'intérieure. Elle a eu lieu à la galerie Arsenal art contemporain  de Montréal du 1er décembre 2022 au 5 février 2023. Je suis partit visitée l'exposition lors d'une sortie scolaire le 2 Février 2023 dernier.
 
 # TITRE DE L'OEUVRE:
 
