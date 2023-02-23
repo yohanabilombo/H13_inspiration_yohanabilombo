@@ -31,9 +31,10 @@ Intéractive et Comtemplatif
 ![IMG_6059](https://user-images.githubusercontent.com/112107428/220974594-3c6fe341-4dcf-4e35-a524-060d01713a23.jpeg)
 
 
-## MISE EN ESPACE:(photo)
+## MISE EN ESPACE
 
-(croquis)
+![null (1)](https://user-images.githubusercontent.com/112107428/220984701-11aabec0-0413-41e5-9dae-64715321a32f.png)
+
 
 ## COMPOSANTE TECHNIQUE:
 
